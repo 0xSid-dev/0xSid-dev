@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning Python🐍, C and JavaScript.
 - 😄 Pronouns: He/Him
 
-**📫 How to reach me: **
+**📫 How to reach me:**
 <a href="mailto:a.siddharth07@gmail.com">
   <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
