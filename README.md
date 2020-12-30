@@ -2,7 +2,19 @@
 
 ![](https://komarev.com/ghpvc/?username=d3vsid-sudo&label=Profile+Views&style=plastic)
 
-### 📫 How to reach me: 
+
+
+<br />
+
+## Operating Systems I use:
+![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+- 🌱 I’m currently learning Python🐍, C and JavaScript.
+- 😄 Pronouns: He/Him
+
+## 📫 How to reach me: 
 <a href="mailto:a.siddharth07@gmail.com">
   <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -15,16 +27,6 @@
 <a href="https://www.instagram.com/itz_sid__0/">
   <img align="left" alt="My Instagram" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
-<br />
-
-### Operating Systems I use:
-![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-- 🌱 I’m currently learning Python🐍, C and JavaScript.
-- 😄 Pronouns: He/Him
 
 ### Languages and Tools I use:
 <code>
