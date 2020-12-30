@@ -1,4 +1,4 @@
-## Hi there <img src="https://github.com/Sid-Zer0/Sid-Zer0/blob/master/assets/wave.gif" width="30px"> I am Siddharth Arumugam
+# Hi there <img src="https://github.com/Sid-Zer0/Sid-Zer0/blob/master/assets/wave.gif" width="30px"> I am Siddharth Arumugam
 
 ![](https://komarev.com/ghpvc/?username=d3vsid-sudo&label=Profile+Views&style=plastic)
 
@@ -36,5 +36,7 @@
 <code>
     <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 </code>
+
+<br />
 
 ![Siddharth Arumugam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3vsid-sudo&show_icons=true&title_color=ffffff&text_color=daf7bc&icon_color=bb2acf&bg_color=191919)
