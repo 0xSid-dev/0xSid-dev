@@ -56,3 +56,8 @@
 <br />
 
 ![Siddharth Arumugam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3vsid-sudo&show_icons=true&title_color=ffffff&text_color=daf7bc&icon_color=bb2acf&bg_color=191919)
+
+#### 💻 Workspace Specs:
+![](https://img.shields.io/badge/Windows-Lenovo_Thinkpad-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Intel-Core_i5_5th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![](https://img.shields.io/badge/RAM-8_GB-76B900?style=for-the-badge&logo=intel&logoColor=white)
