@@ -28,7 +28,7 @@
 ### 📫 How to reach me:
 
 <a href="mailto:a.siddharth07@gmail.com">
-  <img alt="Gmail" align="left" height="25px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img alt="Gmail" height="25px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://t.me/Mr_Night">
   <img alt="Telegram" height="25px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -39,6 +39,7 @@
 <a href="https://www.instagram.com/itz_sid__0/">
   <img alt="Instagram" height="25px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+<img alt="Discord" height="25 px" src="https://img.shields.io/badge/Discord-Mr_Night%236181-%237289da?style=for-the-badge&logo=discord>
 
 <br />
 
