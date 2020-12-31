@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=d3vsid-sudo&label=Profile+Views&style=plastic)
 
 <a href="mailto:a.siddharth07@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <!-- <a href="https://t.me/Mr_Night">
   <img align="left" alt="Telegram" width="22px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /> -->
@@ -22,7 +22,7 @@
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-- 🌱 I’m currently learning Python🐍, C and JavaScript.
+- 🌱 I’m currently learning JavaScript.
 - 😄 Pronouns: He/Him
 
 ### 📫 How to reach me:
@@ -59,7 +59,7 @@
 
 ![Siddharth Arumugam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3vsid-sudo&show_icons=true&title_color=ffffff&text_color=daf7bc&icon_color=bb2acf&bg_color=191919)
 
-#### 💻 Workspace Specs:
+### 💻 Workspace Specs:
 ![](https://img.shields.io/badge/Windows-Lenovo_Thinkpad-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Intel-Core_i5_5th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![](https://img.shields.io/badge/RAM-8_GB-76B900?style=for-the-badge&logo=intel&logoColor=white)
